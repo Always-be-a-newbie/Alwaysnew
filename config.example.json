@@ -1,0 +1,8 @@
+{
+  "InstallPath": null,
+  "ReleaseRootUrl": "https://download.blender.org/release/",
+  "DataRoot": "%LOCALAPPDATA%\\Alwaysnew\\BlenderUpdater",
+  "CacheDir": "%LOCALAPPDATA%\\Alwaysnew\\BlenderUpdater\\cache",
+  "LogDir": "%LOCALAPPDATA%\\Alwaysnew\\BlenderUpdater\\logs",
+  "Channel": "Stable"
+}
